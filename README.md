@@ -29,8 +29,9 @@
 - Сохранение состояния экранов
 
 ## 🖼️ Скриншоты
+
 ![App Screenshot](https://github.com/LissOva/Dogs_and_facts/blob/master/Frame%201.png)
-![App Screenshot](https://github.com/LissOva/Dogs_and_facts/blob/master/Frame%202.png)
+<img src="https://github.com/LissOva/Dogs_and_facts/blob/master/Frame%202.png" width="337">
 ![App Screenshot](https://github.com/LissOva/Dogs_and_facts/blob/master/Frame%203.png)
 
 

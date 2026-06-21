@@ -28,13 +28,6 @@
 - Плавные переходы между экранами
 - Сохранение состояния экранов
 
-## 🖼️ Скриншоты
-
-<img src="https://github.com/LissOva/Dogs_and_facts/blob/master/Frame%201.png" width="540">
-<img src="https://github.com/LissOva/Dogs_and_facts/blob/master/Frame%203.png" width="540">
-<img src="https://github.com/LissOva/Dogs_and_facts/blob/master/Frame%202.png" width="360">
-
-
 ## 🛠️ Технологический стек
 
 ### Основные технологии
@@ -52,3 +45,9 @@
 - **ViewModel** — хранение и управление UI-данными
 - **Material Design 3** — современный UI-дизайн
 - **Material Icons Extended** — расширенный набор иконок
+
+## 🖼️ Скриншоты
+
+<img src="https://github.com/LissOva/Dogs_and_facts/blob/master/Frame%201.png" width="640">
+<img src="https://github.com/LissOva/Dogs_and_facts/blob/master/Frame%203.png" width="640">
+<img src="https://github.com/LissOva/Dogs_and_facts/blob/master/Frame%202.png" width="460">

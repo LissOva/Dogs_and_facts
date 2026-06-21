@@ -30,9 +30,9 @@
 
 ## 🖼️ Скриншоты
 
-![App Screenshot](https://github.com/LissOva/Dogs_and_facts/blob/master/Frame%201.png)
-<img src="https://github.com/LissOva/Dogs_and_facts/blob/master/Frame%202.png" width="337">
-![App Screenshot](https://github.com/LissOva/Dogs_and_facts/blob/master/Frame%203.png)
+<img src="https://github.com/LissOva/Dogs_and_facts/blob/master/Frame%201.png" width="400">
+<img src="https://github.com/LissOva/Dogs_and_facts/blob/master/Frame%203.png" width="400">
+<img src="https://github.com/LissOva/Dogs_and_facts/blob/master/Frame%202.png" width="350">
 
 
 ## 🛠️ Технологический стек

@@ -29,7 +29,10 @@
 - Сохранение состояния экранов
 
 ## 🖼️ Скриншоты
-TBD
+![App Screenshot](https://github.com/LissOva/Dogs_and_facts/blob/master/Frame%201.png)
+![App Screenshot](https://github.com/LissOva/Dogs_and_facts/blob/master/Frame%202.png)
+![App Screenshot](https://github.com/LissOva/Dogs_and_facts/blob/master/Frame%203.png)
+
 
 ## 🛠️ Технологический стек
 

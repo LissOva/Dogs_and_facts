@@ -48,6 +48,6 @@
 
 ## 🖼️ Скриншоты
 
-<img src="https://github.com/LissOva/Dogs_and_facts/blob/master/Frame%201.png" width="640">
-<img src="https://github.com/LissOva/Dogs_and_facts/blob/master/Frame%203.png" width="640">
-<img src="https://github.com/LissOva/Dogs_and_facts/blob/master/Frame%202.png" width="460">
+<img src="https://github.com/LissOva/Dogs_and_facts/blob/master/Frame%201.png" width="840">
+<img src="https://github.com/LissOva/Dogs_and_facts/blob/master/Frame%203.png" width="840">
+<img src="https://github.com/LissOva/Dogs_and_facts/blob/master/Frame%202.png" width="640">
